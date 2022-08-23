@@ -33,5 +33,5 @@
 
 <br>
   
-<img src="./public/preview.gif" width="50%" />
+<img src="./public/preview.gif" width="100%" />
 
